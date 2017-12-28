@@ -1,5 +1,5 @@
 ---
-title: Bypassing Office/Collage Firewall without username and Password 
+title: Bypassing Office/Collage firewall (captive portal) without username and Password 
 updated: 2017-12-27 23:30
 ---
 
