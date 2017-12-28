@@ -1,6 +1,6 @@
 ---
 title: Bypassing Office/Collage Firewall without username and Password 
-updated: 2017-02-04 23:37
+updated: 2017-12-27 23:30
 ---
 
 Let me be clear this is a simple hack , **you can try it to bypass your firewall even with administrator account** but to use it you have to be a little bit techie .
@@ -197,7 +197,7 @@ But you don't have to worry because if this happened by any chance then , you st
 ### I know its very time consuming . Don't worry I have fully automated python script for you . Its time to do some neat stuff .
 
 
-##[code](https://github.com/mohitrajain/firewall_byPass_python_script)
+## [code](https://github.com/mohitrajain/firewall_byPass_python_script)
 ```
 #!/usr/bin/env python
 
