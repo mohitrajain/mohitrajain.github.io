@@ -23,8 +23,6 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.1.1)
       jekyll (~> 3.3)
-    jekyll-theme-hacker (0.0.4)
-      jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     json (2.0.2)
@@ -35,6 +33,8 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
+    minima (2.1.1)
+      jekyll (~> 3.3)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.1)
@@ -57,8 +57,8 @@ DEPENDENCIES
   jekyll (= 3.4.0)
   jekyll-feed (~> 0.6)
   jekyll-sitemap
-  jekyll-theme-hacker
   json (= 2.0.2)
+  minima
   tzinfo-data
 
 RUBY VERSION

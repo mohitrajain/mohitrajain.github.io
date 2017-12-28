@@ -1,5 +1,5 @@
 ---
-title: Bypassing Office/Collage firewall (captive portal) without username and Password 
+title: Bypassing Office/College firewall (captive portal) without username and Password 
 updated: 2017-12-27 23:30
 ---
 
@@ -18,7 +18,7 @@ Note :- Don't worry if you don't have any of these things be with me . I have a 
 
 Okay let me be clear at this point what kind of firewall i am talking about .
 
-It is just a simple firewall/complex firewall which shows you login page when you connects to your collage/office network either by lan or wifi .
+It is just a simple firewall/complex firewall which shows you login page when you connects to your college/office network either by lan or wifi .
 
 A sample login page is shown below :-
 
