@@ -5,5 +5,8 @@ title: About
 
 Hello Guys....
 
-I am computer enthusiast just wanted to do something powerful with the technology available . I believe computers can revolutionize this world . I believe in code more than tools because tools are itself fools . And this is my little attempt to discuss my experiments here . 
+## I am network security enthusiast .I believe computers can revolutionize this world . In these blogs i will try to discuss my experiments . If you want to discuss with me .
+## Contact me here:
+* ### mail [mohit.rajain@nitdelhi.ac.in](mohit.rajain@nitdelhi.ac.in)
+* ### github repo [https://github.com/mohitrajain](https://github.com/mohitrajain)
 **Enjoy!**
