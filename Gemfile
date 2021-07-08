@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
-gem "json","2.0.2"
+gem "json","2.3.0"
 gem 'jekyll-sitemap'
 
 # Hello! This is where you manage which Jekyll version is used to run.
