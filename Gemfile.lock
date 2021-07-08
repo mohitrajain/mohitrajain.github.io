@@ -25,7 +25,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    json (2.0.2)
+    json (2.3.0)
     kramdown (2.3.1)
     liquid (3.0.6)
     listen (3.1.5)
@@ -57,7 +57,7 @@ DEPENDENCIES
   jekyll (= 3.4.0)
   jekyll-feed (~> 0.6)
   jekyll-sitemap
-  json (= 2.0.2)
+  json (= 2.3.0)
   minima
   tzinfo-data
 
